@@ -33,7 +33,7 @@ This is a FastAPI-based backend API for an e-commerce admin dashboard. It provid
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-admin-api.git
+   git clone https://github.com/DanyalAliAsghar/ecommerce_admin_api.git
    cd ecommerce-admin-api
 
 python -m app.scripts.demo_data
