@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Env files
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Testing cache
+.pytest_cache/
+.tox/
+
+# Mypy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+.cache
+
+# Logs
+*.log
+
+# macOS / Linux / Windows
+.DS_Store
+Thumbs.db
