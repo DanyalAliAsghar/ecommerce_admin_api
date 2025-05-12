@@ -36,4 +36,9 @@ This is a FastAPI-based backend API for an e-commerce admin dashboard. It provid
    git clone https://github.com/DanyalAliAsghar/ecommerce_admin_api.git
    cd ecommerce-admin-api
 
+## Populate Demo Data
+
+To populate the database with demo data, run the following command:
+
+```bash
 python -m app.scripts.demo_data
